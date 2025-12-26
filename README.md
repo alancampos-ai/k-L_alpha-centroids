@@ -30,5 +30,5 @@ The objective of this project is to implement and evaluate unsupervised segmenta
 pip install numpy scipy dipy matplotlib pymanopt
 
 ## License (MIT)
-- Copyright (c) Alan Campos
+- Copyright (c) alancampos-ai
 - Code released under the MIT License.
