@@ -1,7 +1,7 @@
 # k-L_alpha-centroids
 k-L^α centroids algorithm on SPD(3) for DT-MRI under EUC, LOG, and AIRM geometries.
 
-The objective of this project is to implement and evaluate unsupervised segmentation methods for Diffusion Tensor MRI (DT-MRI) modeled as symmetric positive definite (SPD) matrices, using the generalized k–Lα centroids algorithm under Euclidean, Log-Euclidean, and Riemannian (AIRM) metrics.
+The objective of this project is to implement and evaluate unsupervised segmentation methods for Diffusion Tensor MRI (DT-MRI) on SPD(3), using the generalized k–L^α centroids algorithm under EUC, LOG, and AIRM geometries.
 
 ## DT-MRI segmentation examples
 
