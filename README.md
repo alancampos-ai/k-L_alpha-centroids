@@ -6,14 +6,14 @@ O objetivo deste projeto é implementar e avaliar métodos de segmentação não
 ## Exemplos de segmentação (DT-MRI)
 
 <p align="center">
-  <img src="figure/k3_reference_alpha_coronal.png"  alt="Coronal"  height="220">
   <img src="figure/k3_reference_alpha_axial.png"    alt="Axial"    height="220">
+  <img src="figure/k3_reference_alpha_coronal.png"  alt="Coronal"  height="220">
   <img src="figure/k3_reference_alpha_sagittal.png" alt="Sagital"  height="220">
 </p>
 
 ## Resultados completos dos experimentos
 
-- [Google Drive](https://drive.google.com/drive/folders/1YBVxdJ12ujfiddyKyu-Z6pwpmwWGmsDr?usp=drive_link)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" alt="Google Drive" height="20">](https://drive.google.com/drive/folders/1YBVxdJ12ujfiddyKyu-Z6pwpmwWGmsDr?usp=drive_link)
 
 ## Dependências
 - Python >= 3.8
