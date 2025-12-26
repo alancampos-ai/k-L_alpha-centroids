@@ -9,7 +9,7 @@ O objetivo deste projeto é implementar e avaliar métodos de segmentação não
 
 ## Resultados completos dos experimentos
 
-- https://drive.google.com/drive/folders/1YBVxdJ12ujfiddyKyu-Z6pwpmwWGmsDr?usp=drive_link
+- [Google Drive](https://drive.google.com/drive/folders/1YBVxdJ12ujfiddyKyu-Z6pwpmwWGmsDr?usp=drive_link)
 
 ## Dependências
 - Python >= 3.8
@@ -18,4 +18,3 @@ O objetivo deste projeto é implementar e avaliar métodos de segmentação não
 ## Licença (MIT)
 - Copyright (c) Alan Campos
 - Código disponibilizado sob a Licença MIT.
-
